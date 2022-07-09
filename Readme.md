@@ -1,6 +1,6 @@
 # <b>Student Result Management System with PHP</b>
 
-## [Click for see this project...](https://www.slideshare.net/secret/BTdAUqpl1K16k4)
+## [Click for see this project...]([https://www.slideshare.net/secret/BTdAUqpl1K16k4](https://www.slideshare.net/NafizMdImtiazUddin/php-student-result-management-system))
 <b>Software:</b>
 - VS code
 - PHP language [Web application]
@@ -19,7 +19,7 @@
 ...............................
 ...............................
 
-## [See more screenshots...](https://www.slideshare.net/secret/BTdAUqpl1K16k4)
+## [See more screenshots...](https://www.slideshare.net/NafizMdImtiazUddin/php-student-result-management-system)
 
 
 
